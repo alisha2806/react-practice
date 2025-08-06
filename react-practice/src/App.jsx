@@ -5,6 +5,7 @@ const App = () => {
     <div>
       hello world I am trying to deploy this app via GCP Firebase and run CI/CD
       on github actions!!
+      <h1>hello</h1>
     </div>
   );
 };
